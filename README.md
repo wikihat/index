@@ -1,5 +1,1 @@
-# index
-
-Upcoming ...
-
-wikihat.com
+# wikihat.com
